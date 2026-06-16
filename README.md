@@ -1,8 +1,9 @@
 # Plinko Arcade
 
-Plinko Arcade is a simple physics-based browser game built using **JavaScript**, **p5.js**, and **Matter.js**. The objective is straightforward: drop balls onto the board, let physics take over, and try to land them in the highest-scoring slots. While the rules are easy to understand, every drop is unpredictable, making each game feel different from the last.
+Plinko Arcade is a simple browser game where players drop balls onto a board filled with pegs and try to score as many points as possible. As the balls bounce through the board, their paths are influenced by physics and chance, making every drop unique. The goal is to land balls in the highest-scoring slots while making the most of a limited number of attempts.
 
-This project was developed to explore game development concepts such as physics simulation, collision detection, score management, and interactive user interfaces while recreating the satisfying gameplay of the classic Plinko board.
+Built with **JavaScript**, **p5.js**, and **Matter.js**, this project explores physics-based gameplay, collision detection, and interactive web development. Inspired by the classic Plinko board, it features real-time scoring, smooth physics interactions, and an arcade-style experience that is easy to understand but remains engaging with every playthrough.
+
 
 ---
 
